@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: A. D. Kawamura's homepage
+title: A. D. Kawamura 
 author: Akito Davis Kawamura 河村聡人
 email: akitodk@kwasan.kyoto-u.ac.jp
 description: >- # this means to ignore newlines until "baseurl:"
