@@ -1,4 +1,6 @@
 name:  "empty2"
 image:
 link: projects/empty.html
+target: "_top"
+date: 2001-01-01
 description: hoge
