@@ -2,20 +2,20 @@
 markdown: kramdown
 
 # URL of the Site
-url: ''
+url: https://adavisk.github.io/
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
-baseurl:
+baseurl: https://adavisk.github.io/
 
 # Title of the Site
 title:  Akito D. Kawamura
 # Description of the Site
 description: A customizable Jekyll portfolio theme
 # URL of Image of the Site
-site-image: /WhatATheme/assets/images/meta.jpg
+#site-image:
 # Keywords of the Site
 site-keywords: Site, Template, Theme
 # URL for the Image of custom Favicon
-favicon-url:
+#favicon-url:
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
 heroimage: https://images.pexels.com/photos/20360845/pexels-photo-20360845/free-photo-of-a-white-tree-with-blue-sky-in-the-background.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
