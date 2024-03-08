@@ -4,12 +4,12 @@ markdown: kramdown
 # URL of the Site
 url: https://adavisk.github.io/
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
-baseurl: https://adavisk.github.io/
+baseurl: 
 
 # Title of the Site
 title:  Akito D. Kawamura
 # Description of the Site
-description: A customizable Jekyll portfolio theme
+description: my personal page
 # URL of Image of the Site
 #site-image:
 # Keywords of the Site
