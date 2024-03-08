@@ -1,4 +1,4 @@
-name:  "empty"
-image:
-link: empty.html
-description: hoge
+- name:  "empty"
+- image:
+- link: empty.html
+- description: hoge
