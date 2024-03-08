@@ -1,6 +1,6 @@
 <div class="columns is-centered is-multiline is-mobile">
   {% assign sorted_data = site.data.projects| sort: "date" | reverse%}
-  {% for proj_hash in sorted_data %}
+  {% for proj_hash in site.data.projects %}
   {% assign project = proj_hash[1] %}
     <div class="column has-text-centered is-paddingless is-marginless is-one-third-widescreen is-one-third-desktop is-one-fifth-fullhd is-one-third-tablet is-two-fifths-mobile is-three-quarters-touch"
       id="project-card">
