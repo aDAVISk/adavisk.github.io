@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Sunspot Magnetic Field on VR"
-permalink: /works/vr-solar-mag/
 ---
 [こちら][cluster]{:target="_blank"}より、NOAA12192の黒点磁場をCluster上で体験することができます。
 
