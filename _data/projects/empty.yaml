@@ -1,4 +1,5 @@
 name:  "empty"
 image:
-link: empty.html
+link: project/empty.html
+target: "_top"
 description: hoge
