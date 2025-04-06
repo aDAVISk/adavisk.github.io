@@ -20,7 +20,8 @@ layout: compress
         </a>
         <hr class="has-background-black">
         <div class="columns is-variable is-5">
-          <div class="column is-6">
+          <!--
+					<div class="column is-6">
             <figure class="image is-16by9 has-shadow">
               <img src="{{page.post-image}}" alt="{{post.title}}" id="post-image">
             </figure>
@@ -33,6 +34,7 @@ layout: compress
               <b>{{ page.date | date: "%-B %d, %Y" }}</b> by <a href="{% if site.author-url %}{{site.author-url}}{% else %}{{site.url}}{{site.baseurl}}/#about{% endif %}" target="_blank"><b class="has-text-link"><u>{{site.author-name}}</u></b>
               </a>
             </p>
+						-->
             {%- assign tags = page.tags -%}
             {%- unless tags.size == 0 -%}
             <p class="subtitle is-uppercase">
